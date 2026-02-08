@@ -106,3 +106,11 @@ Interpretation:
 📣 Promote underperforming tours or less-booked regions via discounts, bundled packages, or regional campaigns to increase adoption.
 
 📈 Monitor moving averages and month-over-month trends continuously to adjust tour offerings, pricing, and resource allocation.
+
+Conclusion
+
+In this assignment, I successfully designed a relational database for a tour company, created the necessary tables (customers, tours, bookings), and populated them with sample data. I implemented various SQL JOINs to analyze customer and tour activity, identifying valid bookings, inactive customers, and underperforming tours.
+
+I also applied Window Functions (Ranking, Aggregate, Navigation, and Distribution) to gain deeper insights into customer spending, running totals, booking trends, and segmentation. Through this work, I demonstrated the ability to extract meaningful business insights from transactional data, providing actionable recommendations to improve marketing, customer engagement, and revenue optimization.
+
+Overall, this project strengthened my practical SQL skills and analytical thinking, preparing me for more advanced database analysis tasks.
