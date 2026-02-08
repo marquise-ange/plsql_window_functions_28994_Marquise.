@@ -26,7 +26,6 @@ The analysis aims to provide clear insights into tour package performance, custo
 
 ## INNER JOIN – Retrieve bookings with valid customers and tours:
 
-
 <img width="1164" height="382" alt="innerjoin" src="https://github.com/user-attachments/assets/5bd474aa-b21b-4fcc-bbb1-d4dea69eb74f" />
 
 ## 2. LEFT JOIN – Identify customers who have never made a booking:
