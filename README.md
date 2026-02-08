@@ -114,3 +114,7 @@ In this assignment, I successfully designed a relational database for a tour com
 I also applied Window Functions (Ranking, Aggregate, Navigation, and Distribution) to gain deeper insights into customer spending, running totals, booking trends, and segmentation. Through this work, I demonstrated the ability to extract meaningful business insights from transactional data, providing actionable recommendations to improve marketing, customer engagement, and revenue optimization.
 
 Overall, this project strengthened my practical SQL skills and analytical thinking, preparing me for more advanced database analysis tasks.
+
+REFERENCE:
+https://www.youtube.com/watch?v=2HiD24PQqr8
+
