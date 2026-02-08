@@ -18,3 +18,4 @@ The analysis aims to provide clear insights into tour package performance, custo
 5.	Compute three-month moving average sales values using AVG() OVER() to smooth short-term fluctuations and reveal longer-term sales trends.
 
 ### Step 3: Database Schema Design:
+<img width="1024" height="1024" alt="ER Diagram" src="https://github.com/user-attachments/assets/c5fd3380-18a3-413a-8e41-8574541fa4b4" />
