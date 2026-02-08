@@ -79,3 +79,30 @@ Interpretation:
 🎯 This segmentation helps management identify high-value clients and target them with special promotions or loyalty programs.
 
 💡 Lower-spending quartiles highlight customers who may need marketing efforts to increase engagement and revenue.
+
+
+### Step 7: Results Analysis:
+
+1️ Descriptive — What happened?
+
+📊 Top customers by total spending were identified: Marquise Ange leads with $1000, followed by Diana Prince ($500) and Bruce Wayne ($300).
+
+🔗 Most bookings occurred in Kigali, with some regions like Musanze having fewer transactions.
+
+💰 Running totals and moving averages show gradual growth in total booking revenue over the first two weeks of January 2026.
+
+2️⃣ Diagnostic — Why did it happen?
+
+🏙️ The majority of bookings are concentrated in Kigali because it is the capital and a popular tourist hub, attracting more customers.
+
+🎯 Top-spending customers booked multiple tours or larger quantities, increasing their total revenue contribution.
+
+🚫 Tours with no or few bookings (like some Musanze or Huye packages) indicate either low promotion, limited awareness, or scheduling mismatches.
+
+3️⃣ Prescriptive — What should be done next?
+
+🎁 Focus marketing campaigns and loyalty programs on high-value customers to maintain engagement and repeat bookings.
+
+📣 Promote underperforming tours or less-booked regions via discounts, bundled packages, or regional campaigns to increase adoption.
+
+📈 Monitor moving averages and month-over-month trends continuously to adjust tour offerings, pricing, and resource allocation.
